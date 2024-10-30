@@ -1,4 +1,5 @@
 <?php
+//sipa
 // Data collections
 $tim = [
     "1" => ["pemain" => "Andre", "power" => 80, "lawan" => 75, "menang" => true],
